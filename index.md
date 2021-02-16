@@ -8,9 +8,9 @@
   </head>
   <body>
     <a-scene>
-      <a-sky src="BIC20.jpg" rotation="0 -50 0"></a-sky>
+      <a-sky src="BIC20.jpg" rotation="0 -100 0"></a-sky>
 
-      <a-text font="kelsonsans" value="BIC - TORRE DEL RELOJ" width="6" position="-1.5 0.0 -2.5"
+      <a-text font="kelsonsans" value="" width="6" position="-1.5 0.0 -2.5"
               rotation="0 1 -0.5"></a-text>
     </a-scene>
   </body>
